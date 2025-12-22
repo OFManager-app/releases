@@ -8,15 +8,24 @@
 
 ---
 
-## Download
+## Quick Download
 
-Download links will be updated automatically after each release.
+| Platform | Download |
+|----------|----------|
+| **macOS (Apple Silicon)** M1/M2/M3/M4 | [⬇️ Download DMG](https://github.com/OFManager-app/releases/releases/download/v0.3.318/OFManager-0.3.318-arm64.dmg) |
+| **macOS (Intel)** | [⬇️ Download DMG](https://github.com/OFManager-app/releases/releases/download/v0.3.318/OFManager-0.3.318-x64.dmg) |
+| **Windows 64-bit** | [⬇️ Download Installer](https://github.com/OFManager-app/releases/releases/download/v0.3.318/OFManager-0.3.318_win32_x64.exe) |
 
-[**📥 View Latest Downloads →**](https://github.com/OFManager-app/releases/releases/latest)
+> **Which Mac do I have?** Click  → About This Mac. Look for "Chip" - if it says Apple M1/M2/M3/M4, download Apple Silicon.
+
+---
+
+## All Releases
+
+[View all versions and release notes →](https://github.com/OFManager-app/releases/releases)
 
 ---
 
 <p align="center">
   <a href="https://ofmanager.com">ofmanager.com</a>
 </p>
-
