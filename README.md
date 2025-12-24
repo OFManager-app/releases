@@ -12,9 +12,9 @@
 
 | Platform | Download |
 |----------|----------|
-| **macOS (Apple Silicon)** M1/M2/M3/M4 | [⬇️ Download DMG](https://github.com/OFManager-app/releases/releases/download/v0.3.322/OFManager-0.3.322-arm64.dmg) |
-| **macOS (Intel)** | [⬇️ Download DMG](https://github.com/OFManager-app/releases/releases/download/v0.3.322/OFManager-0.3.322-x64.dmg) |
-| **Windows 64-bit** | [⬇️ Download Installer](https://github.com/OFManager-app/releases/releases/download/v0.3.322/OFManager-0.3.322_win32_x64.exe) |
+| **macOS (Apple Silicon)** M1/M2/M3/M4 | [⬇️ Download DMG](https://github.com/OFManager-app/releases/releases/download/v0.3.323/OFManager-0.3.323-arm64.dmg) |
+| **macOS (Intel)** | [⬇️ Download DMG](https://github.com/OFManager-app/releases/releases/download/v0.3.323/OFManager-0.3.323-x64.dmg) |
+| **Windows 64-bit** | [⬇️ Download Installer](https://github.com/OFManager-app/releases/releases/download/v0.3.323/OFManager-0.3.323_win32_x64.exe) |
 
 > **Which Mac do I have?** Click  → About This Mac. Look for "Chip" - if it says Apple M1/M2/M3/M4, download Apple Silicon.
 
