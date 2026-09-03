@@ -12,8 +12,8 @@
 
 | Platform | Download |
 |----------|----------|
-| **macOS** (Apple Silicon & Intel) | [⬇️ Download DMG](https://github.com/OFManager-app/releases/releases/download/v0.4.224/OFManager-0.4.224-universal.dmg) |
-| **Windows 64-bit** | [⬇️ Download Installer](https://github.com/OFManager-app/releases/releases/download/v0.4.224/OFManager-0.4.224-x64.exe) |
+| **macOS** (Apple Silicon & Intel) | [⬇️ Download DMG](https://github.com/OFManager-app/releases/releases/download/v0.4.225/OFManager-0.4.225-universal.dmg) |
+| **Windows 64-bit** | [⬇️ Download Installer](https://github.com/OFManager-app/releases/releases/download/v0.4.225/OFManager-0.4.225-x64.exe) |
 
 ---
 
